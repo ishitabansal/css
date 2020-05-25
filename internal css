@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><title>internal css</title>
+<style>
+body{
+background-color:linen;
+}
+h1{
+color:blue;
+margin-left:40px;
+}
+</style>
+</head>
+<body>
+<h1> Internal css is aplied here </h1>
+<p> Not affected by internal css </p>
+</body>
+</html>

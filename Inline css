@@ -5,6 +5,6 @@
 </head>
 <body>
 <h2 style="color:red;margin-left:40px"> INLINE CSS </h2>
-<p> no effect of style </p>
+<p> no effect of style on this para </p>
 </body>
 </html>

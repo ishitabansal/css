@@ -2,10 +2,12 @@
 <head>
 <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
-body{
+body
+{
 background-color:green;
 }
-h1{
+h1
+{
 color:navy;
 margin-left:40px;
 }

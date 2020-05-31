@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> inline css </title>
+<title> 
+inline css 
+</title>
 </head>
 <body>
 <h2 style="color:red;margin-left:40px"> INLINE CSS </h2>

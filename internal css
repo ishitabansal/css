@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head><title>internal css</title>
+<head>
+<title>
+internal css
+</title>
 <style>
 body
 {

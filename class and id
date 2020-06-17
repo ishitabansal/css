@@ -25,3 +25,8 @@ first class.</p>
 <h3 id="secondlogo" class="redfont">Third heading</h3>
 <p id="onelogo">Ths is third para using first id.</p>
 </html>
+
+
+
+//one class can be used in multiple elements.
+//multiple classes can be used in one element.

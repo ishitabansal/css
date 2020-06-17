@@ -30,3 +30,6 @@ first class.</p>
 
 //one class can be used in multiple elements.
 //multiple classes can be used in one element.
+//id should be used only once in the entire code.
+//id is given more preference than class.
+//more than one id cant be used in single element.

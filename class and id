@@ -2,13 +2,13 @@
 <head>
 <title>class and id</title>
 <style type="text/css">
-.redfont{                     
+.redfont{                                                           //class is always defined by starting from .(dot)
 color:red;                                                                    
 }
 .largefont{
 font-size:70px;
 }
-#onelogo{
+#onelogo{                                                         //id is always defined by starting from #(hash)                                  
 color:green;
 font-size:100px;
 }

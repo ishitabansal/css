@@ -12,3 +12,9 @@ font-size:70px;
 color:green;
 font-size:100px;
 }
+#secondlogo{
+color:yellow;
+}
+</style>
+</head>
+<body>

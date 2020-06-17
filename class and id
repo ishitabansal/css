@@ -18,3 +18,10 @@ color:yellow;
 </style>
 </head>
 <body>
+<p class="redfont">This is the first para using 
+first class.</p>
+<p class="largefont redfont">This is the second para using second class</p>
+<h1>First heading</h1>
+<h3 id="secondlogo" class="redfont">Third heading</h3>
+<p id="onelogo">Ths is third para using first id.</p>
+</html>

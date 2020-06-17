@@ -5,3 +5,10 @@
 .redfont{                     
 color:red;                                                                    
 }
+.largefont{
+font-size:70px;
+}
+#onelogo{
+color:green;
+font-size:100px;
+}

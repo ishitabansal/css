@@ -14,3 +14,10 @@ width:70%;
 background-color:red;
 width:50%;
 }
+</style>
+</head>
+<body>
+<div id="first-div">
+<p> this is the first paragraph </p>
+<p> this is the second paragraph </p>
+</div>

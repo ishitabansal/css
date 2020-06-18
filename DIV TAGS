@@ -21,3 +21,13 @@ width:50%;
 <p> this is the first paragraph </p>
 <p> this is the second paragraph </p>
 </div>
+<div id="second-div">
+<p> this is the new paragraph </p>
+<h1> this is the first heading </p>
+</div>
+<div class="third-div">
+<h2> this is the second heading </h2>
+<h3> this is the third heading </h3>
+</div>
+</body>
+</html>

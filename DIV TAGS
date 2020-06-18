@@ -2,7 +2,7 @@
 <head>
 <title> DIV tag </title>
 <style>
-#first-div{
+#first-div{                                            //any one of id and class can be used in div element for its background and look.
 background-color:blue;
 width:70%;
 }
@@ -17,7 +17,7 @@ width:50%;
 </style>
 </head>
 <body>
-<div id="first-div">
+<div id="first-div">                                        //div tag used to separate two sections
 <p> this is the first paragraph </p>
 <p> this is the second paragraph </p>
 </div>

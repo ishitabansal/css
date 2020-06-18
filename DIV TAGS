@@ -1,0 +1,8 @@
+<<html>
+<head>
+<title> DIV tag </title>
+<style>
+#first-div{
+background-color:blue;
+width:70%;
+}

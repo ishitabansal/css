@@ -6,3 +6,11 @@
 background-color:blue;
 width:70%;
 }
+#second-div{
+background-color:yellow;
+width:70%;
+}
+.third-div{
+background-color:red;
+width:50%;
+}

@@ -18,3 +18,9 @@ float:right;
 .clear-float{
 clear:both;
 }
+</style>
+<body>
+<div id="first-div">
+<p> This paragraph uses first id. </p>
+<p> This is the second paragraph using first id</p>
+</div>

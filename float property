@@ -8,3 +8,13 @@ width:200px;
 height:200px;
 float:left;
 }
+#second-div{
+background-color:blue;
+width:200px;
+height:200px;
+float:right;
+}
+
+.clear-float{
+clear:both;
+}

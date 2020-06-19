@@ -28,3 +28,9 @@ clear:both;
 <h1> this is the first heading </h1>
 <h2> this is the second heading using second id. </p>
 </div>
+<div class="clear-float">
+<p> this is the third paragraph without class and id </p>
+<h1> this is the fourth heading excluding class and id. </h1>
+</div>
+</body>
+</html>

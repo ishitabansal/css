@@ -24,3 +24,7 @@ clear:both;
 <p> This paragraph uses first id. </p>
 <p> This is the second paragraph using first id</p>
 </div>
+<div id="second-div">
+<h1> this is the first heading </h1>
+<h2> this is the second heading using second id. </p>
+</div>

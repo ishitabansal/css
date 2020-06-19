@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>float property</title>
+<style>
+#first-div{
+background-color:orange;
+width:200px;
+height:200px;
+float:left;
+}

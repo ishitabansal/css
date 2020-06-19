@@ -22,3 +22,9 @@ height:300px;
 <p>  This is the first paragraph using first id. </p>
 <p> This is the second paragraph using first id. </p>
 </div>
+<div id="second-div">
+<h1> This is the first heading using second id. </h1>
+<h2> This is the second heading using second id. </h1>
+</div>
+</body>
+</html>

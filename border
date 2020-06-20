@@ -2,3 +2,13 @@
 <head>
 <title>border</title>
 <style>
+
+#one{
+background-color:brown;
+}
+#two{
+background-color:pink;
+}
+#three{
+background-color:green;
+}

@@ -12,3 +12,12 @@ background-color:pink;
 #three{
 background-color:green;
 }
+
+.common{
+width:200px;
+height:200px;
+border:10px blue solid;
+border-radius:200px;
+}
+</style>
+</head>
